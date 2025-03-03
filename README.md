@@ -45,7 +45,7 @@ This repository contains a sophisticated Python-based tool that simulates realis
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/survey-data-simulation.git
+git clone git clone https://github.com/MoePouyan/survey-data-simulation.git
 cd survey-data-simulation
 
 # Install required packages
