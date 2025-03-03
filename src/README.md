@@ -1,0 +1,1 @@
+This directory contains Python code for generating realistic market research survey data with demographic profiles, response patterns, and simulated advertising exposure effects. The simulation creates respondents with correlated attributes and behaviors that mirror real-world survey data.
