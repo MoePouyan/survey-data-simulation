@@ -70,12 +70,12 @@ df.to_csv("data/simulated_survey_data.csv", index=False)
 
 ```
 survey-data-simulation/
-├── data/                   # Sample output data files
-├── notebooks/              # Jupyter notebooks for analysis demonstrations
-├── src/                    # Source code for the simulation
-│   └── simulation.py       # Main simulation code
-├── README.md               # This file
-└── requirements.txt        # Required packages
+├── data/                               # Sample output data files
+├── notebooks/                          # Jupyter notebooks for analysis demonstrations
+├── src/                                # Source code for the simulation
+│   └── Simulated_brandx_survey.py      # Main simulation code
+├── README.md                           # This file
+└── requirements.txt                    # Required packages
 ```
 
 ## Potential Applications
